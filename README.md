@@ -69,10 +69,7 @@ The Central server sent the results to client B.
 or 
 “Found no compatibility for <INPUT1> and <INPUT2>”
 
-
-g. My project works as expected except for part C of the assignment. It does not calculate the matching gap correctly. I couldn't figure out how to implement a shortest path algorithm such as Dijkstra in time for the deadline. I tried very hard and learn a lot. I tried to account for any large amount of data being streamed over the connections using while loops. So that any size file could be used with the program.
-
-h. Most of the code is my own except pieces from
+g. Most of the code is my own except pieces from
 Beej's Code: http://www.beej.us/guide/bgnet/
         Create sockets (TCP / UDP);
         Bind a socket;
